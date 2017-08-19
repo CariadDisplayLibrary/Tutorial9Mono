@@ -1,0 +1,19 @@
+Source: libdisplaycore-icons-tutorial9mono
+Section: libraries
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-icons-tutorial9mono
+Section: libraries
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Icons
+Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
+Provides: Tutorial9Mono.h
+Description: Tutorial9Mono library
+ Tutorial9Mono icon set for the MonoIcon widget system
+
+
+
