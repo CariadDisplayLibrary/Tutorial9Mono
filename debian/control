@@ -12,7 +12,7 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Icons
 Depends: libdisplaycore-core, libdisplaycore-toolkit-monoicon
 Provides: Tutorial9Mono.h
-Description: Tutorial9Mono library
+Description: Tutorial9Mono
  Tutorial9Mono icon set for the MonoIcon widget system
 
 
